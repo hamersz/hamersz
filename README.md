@@ -1,4 +1,4 @@
-![Banner Image](https://www.fishtechies.com/wp-content/uploads/2018/01/data-science-banner.jpg)
+<img src="https://www.fishtechies.com/wp-content/uploads/2018/01/data-science-banner.jpg" width="1240" height="320">
 
 ## :book: Sobre mim
 - 🖥 Análista de dados / Cientista de dados
@@ -7,10 +7,8 @@
 - 💼 Atuando como Análista de Inteligência de Mercado na área de Modelagem de Crédito/Risco
 - 🌐 Você pode acessar todos os meus projetos open-source aqui mesmo no [𝙶𝚒𝚝𝙷𝚞𝚋](https://github.com/hamersz?tab=repositories)
 
-<details>
-  <summary><b>🛠️ Algumas linguagens e ferramentas que eu uso:</b></summary>
-  <br/>
-  
+- 🛠️ Algumas linguagens e ferramentas que eu uso:
+
   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"     
       height="40em" align="center"/>](https://code.visualstudio.com/)
   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"   
@@ -21,8 +19,6 @@
       height="40em" align="center"/>](https://www.r-project.org/)
   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"
       height="40em" align="center"/>](https://jupyter.org/)
-  
-  
   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
       height="40em" align="center"/>](https://www.mysql.com/)
   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
@@ -33,9 +29,7 @@
       height="40em" align="center"/>](https://scikit-learn.org/stable/)
   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
       height="40em" align="center"/>](https://www.tensorflow.org/) 
-  
-  
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg"
+ [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg"
       height="40em" align="center"/>](https://www.apache.org/)
    [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"
       height="40em" align="center"/>](https://git-scm.com/)
@@ -46,9 +40,9 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg"
       height="40em" align="center"/>](https://about.gitlab.com/)
 
-</details>
-
 ## 📫 Entre em contato comigo:
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
            height="40em" align="center"/>](https://linkedin.com/in/ajhc)
+
+
