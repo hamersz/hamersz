@@ -44,5 +44,11 @@
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
            height="40em" align="center"/>](https://linkedin.com/in/ajhc)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg"
+           height="40em" align="center"/>](https://www.kaggle.com/hamersz)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png"
+           height="40em" align="center"/>](https://pt.stackoverflow.com/users/252064/hamers)   
+            
+          
 
 
