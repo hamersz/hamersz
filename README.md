@@ -29,7 +29,7 @@
       height="40em" align="center"/>](https://www.postgresql.org/)
   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg"
       height="40em" align="center"/>](https://www.sqlite.org/index.html)
-  [<img src="https://raw.githubusercontent.com/hamersz/icons/5fa353be35489b134ceb4fffcf5713b5a657bf63/img/scikitlearn.svg?token=AVEI4XK4OC5MAUDJQ66Z7ODCPK5LO"
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png"
       height="40em" align="center"/>](https://scikit-learn.org/stable/)
   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
       height="40em" align="center"/>](https://www.tensorflow.org/) 
