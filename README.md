@@ -10,12 +10,34 @@
 <details>
   <summary><b>🛠️ Algumas linguagens e ferramentas que eu uso:</b></summary>
   <br/>
-IDE'S:
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"     
+
+*IDE'S*:
+  
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"     
       height="40em" align="center"/>](https://code.visualstudio.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"   
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"   
       height="40em" align="center"/>](https://www.rstudio.com/)
-Outros:   
+  
+*Linguagem de programação*:
+  
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"
+      height="40em" align="center"/>](https://www.python.org/)
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"
+      height="40em" align="center"/>](https://www.r-project.org/)
+  
+*Outros*:   
+
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
+      height="40em" align="center"/>](https://aws.amazon.com/pt)
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
+      height="40em" align="center"/>](https://aws.amazon.com/pt)
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg"
+      height="40em" align="center"/>](https://aws.amazon.com/pt)
+  [<img src="https://raw.githubusercontent.com/hamersz/icons/5fa353be35489b134ceb4fffcf5713b5a657bf63/img/scikitlearn.svg?token=AVEI4XK4OC5MAUDJQ66Z7ODCPK5LO"
+      height="40em" align="center"/>](https://aws.amazon.com/pt)   
+  
+
+          
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
       height="40em" align="center"/>](https://aws.amazon.com/pt)
 [<img src="https://04elementos.github.io/4elementos/images/socials/github.png"
